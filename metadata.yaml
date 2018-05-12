@@ -1,0 +1,32 @@
+_repo: Phroso--A-Romance_41822
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41822-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hope, Anthony
+    alias: Hawkins, Anthony Hope
+    birthdate: 1863
+    deathdate: 1933
+    gutenberg_agent_id: '63'
+    url: http://www.gutenberg.org/2009/agents/63
+    wikipedia: http://en.wikipedia.org/wiki/Anthony_Hope
+description: ''
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '2013-01-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41822'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adventure stories'
+- !lcsh 'Love stories'
+- !lcsh 'British -- Foreign countries -- Fiction'
+- !lcsh 'Islands -- Fiction'
+- !lcc 'PR'
+title: 'Phroso: A Romance'
+url: http://www.gutenberg.org/ebooks/41822
